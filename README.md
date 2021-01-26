@@ -1,2 +1,2 @@
-# MITRE-ATT-CK
+# MITRE-ATT&CK
 Listing of MITRE Data
